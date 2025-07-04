@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-🎓 Recently graduated from **JB Knowledge Park**  
+🎓 Recently graduated from **JB Knowledge Park**  at MDU University
 💻 I love building interactive and responsive websites  
 📚 Currently exploring JavaScript frameworks and modern UI design  
 🚀 Always looking to grow and collaborate on exciting projects
